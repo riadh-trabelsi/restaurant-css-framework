@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Redressed&display=swap');
 .principal {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(images/gambero.avif) center center fixed no-repeat;
-    height: 1200px;background-size: cover;
+    ;background-size: cover;
+    
+}
+.navbar-toggler {
+    background-color:rgb(69, 206, 31);
+}
+.principal2 {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(https://plus.unsplash.com/premium_photo-1671809039835-fd2073cb956a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1770&q=80) center center fixed no-repeat;
+  ;background-size: cover;
     
 }
