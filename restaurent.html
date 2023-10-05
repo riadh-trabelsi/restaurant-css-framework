@@ -3,11 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link href="styles.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <script src="https://maps.googleapis.com/maps/api/js?key=VOTRE_CLE_API&callback=initMap" async defer></script>
+
     <title>restaurent</title>
 </head>
-<body>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+<body style="background-color:rgba(0, 0, 0, .8);">
+    <header>
+        <nav class="rt-navbar navbar navbar-expand-md bg-dark text-danger">
+            <div class="container-fluid">
+              <h1 class="mx-4 my-4">GAMBERO ROSSO</h1>
+              <img src="images/fernando-andrade-TrD7yA09Vg8-unsplash.jpg" width="30px" >
+              
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-md-0">
+                  <li class="nav-item pe-4">
+                    <a  class="btn btn-success" aria-current="page" href="index.html">Welcome</a>
+                  </li>
+                  <li class="nav-item pe-4">
+                    <a class="btn btn-success" aria-current="page" href="menu.html">Menu</a>
+                  </li>
+                  <li class="nav-item pe-4">
+                    <a  href="pictures.html" class="btn btn-success">Pictures</a>
+                  </li>
+                 
+                  <li class="nav-item pe-4">
+                    <a  href="restaurent.html" class="btn btn-success">Restaurant</a>
+                  </li>
+                  <li class="nav-item pe-4">
+                    <a class="btn btn-success" href="contact.html">Contact</a>
+                  </li>
+                
+                </ul>
+               
+              </div>
+            </div>
+          </nav>
+        </header>
+        <main>
+        <section class="principal3 text-danger  ms-4">
+         
+          <div class="container text-center ">
+            <div class="row justify-content-round ">
+        <div class="payment col-12  col-md-5 bg-warning  ">
+          <div class=" ms-5 me-5 mt-5">
+             <h1> PAIEMENT</h1>
+            <p>PAIEMENT : Carte de crédit – Cash – Bancontact –
+            Chèques repas et tickets restaurant électroniques</p>
+            
+            <p>Les cartes de crédit de nos clients seront débitées dès que la transaction est acceptée et le reçu en statut « paiement effectué » sort sur nos appareils.</p>
+        </div></div> 
+        <div class="heures col-12 col-md-5 bg-warning ms-auto">
+            <div class=" ms-5 me-5 mt-5">
+       <h1>HEURES D'OUVERTURE</h1> 
+            <p>Dernière réservation à 22h00</p>
+
+            <p>Lundi au Jeudi12h00 à 14h30 & 18h00 à 22h30</p>
+            <p>Mardi 12h00 à 14h30 & 18h00 à 22h30</p>
+        <p>Mercredi 12h00 à 14h30 & 18h00 à 22h30</p>
+         <p>Jeudi 12h00 à 14h30 & 18h00 à 22h30</p>
+
+
+         <p>Vendredi   12h00 à 23h00</p>
+
+         <p>Samedi 12h00 à 23h00</p>
+
+         <p>Dimanche et jours feriés fermé</p>
+</div>
+
+
+
+
+    </div>
+    </div></div>
+<div class="text-center">
+    <div class="mt-5">
+        <h1>Localisation</h1>
+        <h4>A deux pas de Gran Place de Bruxelles</h4>
+        <p>Cantersteen, 12 1000 bruxelles</p>
+        <h4>A deux pas de la gare de Namur</h4>
+        <p>Rue de Fer, 5</p>
+    </div>    
+        
+        <div>
+            <iframe src="https://www.google.com/maps/d/embed?mid=1At6XoOobNxozOOkmE_02y9hSlpM41Jc&ehbc=2E312F" width="440" height="380"></iframe>
+        </div>
+    
+    
+    
+</div>
+    </main>
+    <footer>
+        <div class="container-fluid text-center bg-dark text-danger p-3">
+          <br><p>Tous les droits réservés © 2023 Gambero Rosso</p>
+      
+        </div>
+      </footer>
 </body>
-</html>
+        </body>
+        </html>
