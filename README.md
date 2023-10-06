@@ -1,4 +1,4 @@
-# restaurant-css-framework-GAMBERO ROSSO
+# Restaurant-css-framework-GAMBERO ROSSO
 ### Description
 Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il présente page d'accueil, menu, gallerie de photos, contact, les heures d'ouverture, et permet aux utilisateurs de réserveret passer des commandes en ligne.
 ### Fonctionnalités
@@ -23,12 +23,12 @@ Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il pr�
 ### Auteur
 Riadh Trabelsi
 ### Screenshots
-![Accueil](screenshots/Capture%20d'écran%202023-10-06%20144710.png.jpg)
-![Menu](screenshots/Capture%20d'écran%202023-10-06%20144729.png.jpg)
-![Gallerie](screenshots/Capture%20d'écran%202023-10-06%20144754.png.jpg)
-![restaurant](screenshots/Capture%20d'écran%202023-10-06%20144830.png.jpg)
-![Contact](screenshots/Capture%20d'écran%202023-10-06%20144850.png.jpg)
-![Entrée](screenshots/Capture%20d'écran%202023-10-06%20144915.png.jpg)
-![Plats](screenshots/Capture%20d'écran%202023-10-06%20144934.png.jpg)
-![Salade](screenshots/Capture%20d'écran%202023-10-06%20145005.png.jpg)
-![Desserts](screenshots/Capture%20d'écran%202023-10-06%20145046.png.jpg)
+![Accueil](screenshots/Capture%20d'écran%202023-10-06%20144710.png)
+![Menu](screenshots/Capture%20d'écran%202023-10-06%20144729.png)
+![Gallerie](screenshots/Capture%20d'écran%202023-10-06%20144754.png)
+![restaurant](screenshots/Capture%20d'écran%202023-10-06%20144830.png)
+![Contact](screenshots/Capture%20d'écran%202023-10-06%20144850.png)
+![Entrée](screenshots/Capture%20d'écran%202023-10-06%20144915.png)
+![Plats](screenshots/Capture%20d'écran%202023-10-06%20144934.png)
+![Salade](screenshots/Capture%20d'écran%202023-10-06%20145005.png)
+![Desserts](screenshots/Capture%20d'écran%202023-10-06%20145046.png)
