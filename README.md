@@ -1,4 +1,4 @@
-# Restaurant-css-framework-GAMBERO ROSSO
+# Restaurant-css-framework- **GAMBERO ROSSO**
 ### Description
 Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il présente page d'accueil, menu, gallerie de photos, contact, les heures d'ouverture, et permet aux utilisateurs de réserveret passer des commandes en ligne.
 ### Fonctionnalités
@@ -20,8 +20,6 @@ Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il pr�
 - Bootsrap site
 - Unsplash
 - Google
-### Auteur
-Riadh Trabelsi
 ### Screenshots
 ![Accueil](screenshots/Capture%20d'écran%202023-10-06%20144710.png)
 ![Menu](screenshots/Capture%20d'écran%202023-10-06%20144729.png)
@@ -32,3 +30,5 @@ Riadh Trabelsi
 ![Plats](screenshots/Capture%20d'écran%202023-10-06%20144934.png)
 ![Salade](screenshots/Capture%20d'écran%202023-10-06%20145005.png)
 ![Desserts](screenshots/Capture%20d'écran%202023-10-06%20145046.png)
+### Auteur
+***Riadh Trabelsi***
