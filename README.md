@@ -23,3 +23,12 @@ Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il pr�
 ### Auteur
 Riadh Trabelsi
 ### Screenshots
+![Accueil](screenshots/Capture%20d'écran%202023-10-06%20144710.png.jpg)
+![Menu](screenshots/Capture%20d'écran%202023-10-06%20144729.png.jpg)
+![Gallerie](screenshots/Capture%20d'écran%202023-10-06%20144754.png.jpg)
+![restaurant](screenshots/Capture%20d'écran%202023-10-06%20144830.png.jpg)
+![Contact](screenshots/Capture%20d'écran%202023-10-06%20144850.png.jpg)
+![Entrée](screenshots/Capture%20d'écran%202023-10-06%20144915.png.jpg)
+![Plats](screenshots/Capture%20d'écran%202023-10-06%20144934.png.jpg)
+![Salade](screenshots/Capture%20d'écran%202023-10-06%20145005.png.jpg)
+![Desserts](screenshots/Capture%20d'écran%202023-10-06%20145046.png.jpg)
