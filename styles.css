@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amita:wght@700&family=Merriweather:wght@300&family=Redressed&display=swap');
 
-.principal {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(images/gambero.avif) center center fixed no-repeat;
+.principal {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(/images/gambero.avif) center center fixed no-repeat;
     ;background-size: cover;
     
 }
@@ -14,4 +14,59 @@
 }
 h1 {
   font-family:Amita, cursive;
+}
+.custom-shape-divider-top-1696858297 {
+  position: absolute;
+  top: 10;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1696858297 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 104px;
+}
+
+.custom-shape-divider-top-1696858297 .shape-fill {
+  fill: hsl(354, 65%, 45%);
+}
+
+/** For mobile devices **/
+@media (max-width: 767px) {
+  .custom-shape-divider-top-1696858297 svg {
+      width: calc(100% + 1.3px);
+      height: 70px;
+  }
+}
+.custom-shape-divider-bottom-1696858524 {
+  position: absolute;
+  bottom: 10;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-bottom-1696858524 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 104px;
+}
+
+.custom-shape-divider-bottom-1696858524 .shape-fill {
+  fill: #ce2424;
+}
+
+/** For mobile devices **/
+@media (max-width: 767px) {
+  .custom-shape-divider-bottom-1696858524 svg {
+      width: calc(100% + 1.3px);
+      height: 70px;
+  }
 }
