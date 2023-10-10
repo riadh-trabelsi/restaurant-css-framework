@@ -25,7 +25,7 @@ Le Restaurant GAMBERO ROSSO est un projet de site web pour un restaurant. Il pr�
 ![Menu](screenshots/Capture%20d'écran%202023-10-06%20144729.png)
 ![Gallerie](screenshots/Capture%20d'écran%202023-10-06%20144754.png)
 ![restaurant](screenshots/Capture%20d'écran%202023-10-06%20144830.png)
-![Contact](screenshots/Capture%20d'écran%202023-10-06%20144850.png)
+![Contact](screenshots/contact2.png)
 ![Entrée](screenshots/Capture%20d'écran%202023-10-06%20144915.png)
 ![Plats](screenshots/Capture%20d'écran%202023-10-06%20144934.png)
 ![Salade](screenshots/Capture%20d'écran%202023-10-06%20145005.png)
