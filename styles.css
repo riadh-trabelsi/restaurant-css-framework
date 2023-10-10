@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Amita:wght@700&family=Merriweather:wght@300&family=Redressed&display=swap');
 
-.principal {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(/images/gambero.avif) center center fixed no-repeat;
+.principal {background: linear-gradient(rgba(0, 0, 0, .5),rgba(0, 0, 0, .5)), url(https://images.unsplash.com/photo-1636391886989-da35ee18cbdb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNyZXZldHRlc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60) center center fixed no-repeat;
     ;background-size: cover;
     
 }
